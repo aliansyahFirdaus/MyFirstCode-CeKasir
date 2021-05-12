@@ -26,7 +26,7 @@ void batas();
 void footer();
 
 
-//Program
+//Program Kasir Main
 int main(){
 
 
